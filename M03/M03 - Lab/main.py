@@ -1,3 +1,7 @@
+# Alexander L
+# M03 - Lab, main.py
+# Allows user to enter details about a car
+
 class Vehicle:
     def __init__(self, type):
         self.type = type
